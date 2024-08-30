@@ -21,10 +21,10 @@ import time
 
 
 #set ค่าต่างๆสำหรับการใช้งาน api
-consumer_key = '1e5EbAwsdrB0inUqVHIzGpJkT'
-consumer_secret = 'queSDdm2KQl3ZAFir1uFIMMOA9e6zq3hf8wCgxRBYfW7BtiI34'
-access_token = '1233725548074913792-XjCPPVYGfCyKpt0S6q2nga1L84yKbv'
-access_token_secret = 'Yk8BsXIckMzQYFjS3r8JuIiBZwNiXrQXEju4xiC1H0hmf'
+consumer_key = ''
+consumer_secret = ''
+access_token = ''
+access_token_secret = ''
 
 
 # In[25]:
